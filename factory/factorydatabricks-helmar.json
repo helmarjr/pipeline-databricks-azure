@@ -1,0 +1,9 @@
+{
+	"name": "factorydatabricks-helmar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c2539ad-3e5b-499a-8b94-ea3d8803ecb4",
+		"tenantId": "2f2aa87c-0955-4c4e-99e3-197933c7dab4"
+	}
+}
